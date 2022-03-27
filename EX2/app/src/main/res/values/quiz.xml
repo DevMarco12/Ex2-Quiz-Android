@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="QuestaoUm_array">
+        <item>Private</item>
+        <item>Public</item>
+        <item>Protected</item>
+        <item>Static</item>
+        <item>Integer</item>
+    </string-array>
+    <string-array name="QuestaoDois_array">
+        <item>Java</item>
+        <item>C#</item>
+        <item>Cobol</item>
+        <item>Plankalkül</item>
+        <item>Javascript</item>
+    </string-array>
+    <string-array name="QuestaoTres_array">
+        <item>Javascript</item>
+        <item>Ruby</item>
+        <item>Java</item>
+        <item>Typescript</item>
+        <item>C#</item>
+    </string-array>
+</resources>
